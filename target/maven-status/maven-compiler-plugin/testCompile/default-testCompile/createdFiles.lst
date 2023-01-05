@@ -1,0 +1,13 @@
+org\example\walaastepDefinitions\Walaa_homeSlidersStepDefinition.class
+org\example\walaastepDefinitions\Walaa_registerStepDefinition.class
+org\example\walaastepDefinitions\Walaa_currenciesStepDefinition.class
+org\example\walaastepDefinitions\Hooks.class
+org\example\walaastepDefinitions\Walaa_hoverCategoriesStepDefinition.class
+org\example\walaastepDefinitions\Walaa_followUsStepDefinition.class
+org\example\walaastepDefinitions\Walaa_loginStepDefinition.class
+org\example\testRunner\runners.class
+org\example\walaastepDefinitions\Walaa_searchStepDefinition.class
+org\example\walaastepDefinitions\Walaa_ShoppingCartStepDefinition.class
+org\example\pages\Register.class
+org\example\walaastepDefinitions\Walaa_WishlistStepDefinition.class
+org\example\walaastepDefinitions\Walaa_practice.class
